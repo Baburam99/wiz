@@ -508,7 +508,11 @@ font-size: 1.7rem;
     animation: left 1s ease forwards;
     box-shadow: 2px 2px 30px 6px aqua;
 }
-
+.border-p{
+    border: 1px solid purple;
+    padding: 2px;
+    border-radius: 5px;
+}
 .tools p{
     display: flex;
     gap:1em;
